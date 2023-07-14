@@ -10,7 +10,7 @@ in东师包含 [B站号](https://space.bilibili.com/34022713)、[抖音号](http
 
 ## 应用
 
-in 东师包含 [in东师网站](https://innenu.com)、微信小程序in东师、QQ小程序in东师、[App](https://innenu.oss-cn-beijing.aliyuncs.com/innenu%20v5.4.0-230622.apk)。
+in 东师包含 [in 东师网站](https://innenu.com)、微信小程序in东师、QQ小程序in东师、App (网站首页下载)。
 
 ## 项目代码
 
