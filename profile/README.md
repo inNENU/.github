@@ -1,4 +1,4 @@
-inNENU
+# inNENU
 
 inNENU 系 Mr.Hope 个人公益项目，主要包含东师新生指南以及各类东师功能。
 
