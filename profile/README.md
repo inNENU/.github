@@ -14,7 +14,7 @@ inNENU 包含 [网站](https://innenu.com)、微信小程序、QQ小程序、App
 
 ## 项目代码
 
-～～inNENU 的全部前端、后端代码均开源，代码托管在 <https://github.com/innenu> 上，任何人可随时审查。～～
+~~inNENU 的全部前端、后端代码均开源～～，代码托管在 <https://github.com/innenu> 上，任何人可随时审查。~~
 
 由于 [Agent 迅速发展带来的安全问题](https://mp.weixin.qq.com/s/5iF8iae_01Lw37Yvd21TUQ)，本项目的核心仓库自 2026 年 8 月 10 日全部转为闭源。
 
