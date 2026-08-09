@@ -18,5 +18,12 @@ inNENU 包含 [网站](https://innenu.com)、微信小程序、QQ小程序、App
 
 由于 [Agent 迅速发展带来的安全问题](https://mp.weixin.qq.com/s/5iF8iae_01Lw37Yvd21TUQ)，本项目的核心仓库自 2026 年 8 月 10 日全部转为闭源。
 
-如果你有审查本项目代码的需求，请发送邮件至 <mrhope@innenu.com>。
+你可以通过以下地址获取全部小程序的页面数据，用于自行审查：
 
+- <https://assets.innenu.com/guide.zip> (学校指南)
+- <https://assets.innenu.com/apartment.zip> (机构介绍)
+- <https://assets.innenu.com/intro.zip> (学校介绍)
+- <https://assets.innenu.com/newcomer.zip> (迎新相关介绍)
+- <https://assets.innenu.com/school.zip> (学院介绍)
+
+如果你有审查本项目前端和服务端代码的需求，请发送邮件至 <mrhope@innenu.com>。
