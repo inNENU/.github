@@ -26,4 +26,6 @@ inNENU 包含 [网站](https://innenu.com)、微信小程序、QQ小程序、App
 - <https://assets.innenu.com/newcomer.zip> (迎新相关介绍)
 - <https://assets.innenu.com/school.zip> (学院介绍)
 
-如果你有审查本项目前端和服务端代码的需求，请发送邮件至 <mrhope@innenu.com>。
+**特别注意**：以上页面数据本身以及其引用的图片和文件，除明确标注来源的内容 Mr.Hope 没有版权外，其余文字、图片所有权均为 Mr.Hope，并放置在『CC BY-NC-ND 4.0』协议下。请您合法使用这些文字与图片，以避免引起纠纷。
+
+如果您有审查本项目前端和服务端代码的需求，请发送邮件至 <mrhope@innenu.com>。
