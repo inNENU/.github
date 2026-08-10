@@ -16,9 +16,9 @@ inNENU 包含 [网站](https://innenu.com)、微信小程序、QQ小程序、App
 
 ~~inNENU 的全部前端、后端代码均开源，代码托管在 <https://github.com/innenu> 上，任何人可随时审查。~~
 
-由于 [Agent 迅速发展带来的安全问题](https://mp.weixin.qq.com/s/5iF8iae_01Lw37Yvd21TUQ)，本项目的核心仓库自 2026 年 8 月 10 日全部转为闭源。
+由于 [Agent 迅速发展带来的安全问题](https://mp.weixin.qq.com/s/5iF8iae_01Lw37Yvd21TUQ)，inNENU 的三个核心仓库——服务端 `innenu-service`、资源库 `innenu-resource`、小程序源码 `innenu-miniapp`——已于 2026 年 8 月 5 日至 8 月 10 日间全部转为闭源。
 
-你可以通过以下地址获取全部小程序的页面数据，用于自行审查：
+作为保留的开放通道，你可以通过以下地址获取全部小程序的页面数据，用于自行审查：
 
 - <https://assets.innenu.com/guide.zip> (学校指南)
 - <https://assets.innenu.com/apartment.zip> (机构介绍)
@@ -26,6 +26,6 @@ inNENU 包含 [网站](https://innenu.com)、微信小程序、QQ小程序、App
 - <https://assets.innenu.com/newcomer.zip> (迎新相关介绍)
 - <https://assets.innenu.com/school.zip> (学院介绍)
 
-**特别注意**：以上页面数据本身以及其引用的图片和文件，除明确标注来源的内容 Mr.Hope 没有版权外，其余文字、图片所有权均为 Mr.Hope，并放置在『CC BY-NC-ND 4.0』协议下。请您合法使用这些文字与图片，以避免引起纠纷。
+**特别注意**：以上页面数据及其引用的图片和文件，除明确标注了来源、Mr.Hope 不享有版权的内容外，其余文字与图片的所有权均归 Mr.Hope 所有，并置于『CC BY-NC-ND 4.0』协议（知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议）下。请您合法使用这些文字与图片，以避免引起纠纷。
 
 如果您有审查本项目前端和服务端代码的需求，请发送邮件至 <mrhope@innenu.com>。
